@@ -8,5 +8,6 @@
 <code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" width="25px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn33U4msAO3aApavbY3to8duyEKQyxh1kGdw1uhQD5QUTxpS3y2OgxPhuzrW-VbKTg4po&usqp=CAU" width="30px"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" width="30px"></code>
 <code><img src="https://p.kindpng.com/picc/s/171-1718046_javascript-programming-language-logo-hd-png-download.png" width="30px"></code>
-<code><img src="https://assets.stickpng.com/images/62a76468bd73a4af5c5d4fb7.png" width="30px"></code>
+
